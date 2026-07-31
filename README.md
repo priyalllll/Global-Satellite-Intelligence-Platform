@@ -144,29 +144,29 @@ Focuses on:
 
 ---
 
-# Dashboard Preview
+# Executive Dashboard
 
 ## Executive Overview
 
-![Executive Overview](dashboard/dashboard_screenshots/executive_overview.png)
+![Executive Overview](dashboard/dashboard%20screenshots/executive_overview.png)
 
 ---
 
 ## Country & Operator Analysis
 
-![Country Analysis](dashboard/dashboard_screenshots/country_operator_analysis.png)
+![Country Analysis](dashboard/dashboard%20screenshots/country_operator_analysis.png)
 
 ---
 
 ## Orbit & Mission Analysis
 
-![Orbit Analysis](dashboard/dashboard_screenshots/orbit_mission_analysis.png)
+![Orbit Analysis](dashboard/dashboard%20screenshots/orbit_mission_analysis.png)
 
 ---
 
 ## Launch Analysis
 
-![Launch Analysis](dashboard/dashboard_screenshots/launch_analysis.png)
+![Launch Analysis](dashboard/dashboard%20screenshots/launch_analysis.png)
 
 ---
 
