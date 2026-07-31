@@ -1,0 +1,69 @@
+Column Number,Column Name
+1,"Name of Satellite, Alternate Names"
+2,Current Official Name of Satellite
+3,Country/Org of UN Registry
+4,Country of Operator/Owner
+5,Operator/Owner
+6,Users
+7,Purpose
+8,Detailed Purpose
+9,Class of Orbit
+10,Type of Orbit
+11,Longitude of GEO (degrees)
+12,Perigee (km)
+13,Apogee (km)
+14,Eccentricity
+15,Inclination (degrees)
+16,Period (minutes)
+17,Launch Mass (kg.)
+18,Dry Mass (kg.)
+19,Power (watts)
+20,Date of Launch
+21,Expected Lifetime (yrs.)
+22,Contractor
+23,Country of Contractor
+24,Launch Site
+25,Launch Vehicle
+26,COSPAR Number
+27,NORAD Number
+28,Comments
+29,Unnamed: 28
+30,Source Used for Orbital Data
+31,Source
+32,Source.1
+33,Source.2
+34,Source.3
+35,Source.4
+36,Source.5
+37,Source.6
+38,Unnamed: 37
+39,Unnamed: 38
+40,Unnamed: 39
+41,Unnamed: 40
+42,Unnamed: 41
+43,Unnamed: 42
+44,Unnamed: 43
+45,Unnamed: 44
+46,Unnamed: 45
+47,Unnamed: 46
+48,Unnamed: 47
+49,Unnamed: 48
+50,Unnamed: 49
+51,Unnamed: 50
+52,Unnamed: 51
+53,Unnamed: 52
+54,Unnamed: 53
+55,Unnamed: 54
+56,Unnamed: 55
+57,Unnamed: 56
+58,Unnamed: 57
+59,Unnamed: 58
+60,Unnamed: 59
+61,Unnamed: 60
+62,Unnamed: 61
+63,Unnamed: 62
+64,Unnamed: 63
+65,Unnamed: 64
+66,Unnamed: 65
+67,Unnamed: 66
+68,Unnamed: 67
